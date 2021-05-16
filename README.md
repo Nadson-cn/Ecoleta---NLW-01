@@ -40,7 +40,7 @@ O layout da aplicação está disponível no Figma:
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web.png" width="500px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web.svg" width="500px">
 
   
 </p>
